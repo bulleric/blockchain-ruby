@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'blockchain/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "blockchain"
+  spec.name          = "blockchain-ruby"
   spec.version       = Blockchain::VERSION
   spec.authors       = ["blooberr"]
   spec.email         = ["blooberr@gmail.com"]
