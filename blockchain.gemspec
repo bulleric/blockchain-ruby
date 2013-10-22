@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Blockchain::VERSION
   spec.authors       = ["blooberr"]
   spec.email         = ["blooberr@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ Ruby wrapper for blockchain api }
+  spec.summary       = spec.description
   spec.homepage      = ""
   spec.license       = "MIT"
 

@@ -1,6 +1,9 @@
 # Blockchain
 
-TODO: Write a gem description
+Thanks to metaprogramming - 
+
+puts Blockchain::Charts.n_transactions_total(timespan: "all", format: "json")
+puts Blockchain::Charts.total_bitcoins
 
 ## Installation
 
